@@ -14,4 +14,4 @@ positional arguments:
 optional arguments:
   -h, --help         show this help message and exit
 
-for more script please visit https://cloudtutorialsblog.wordpress.com
+for more scripts please visit https://cloudtutorialsblog.wordpress.com
