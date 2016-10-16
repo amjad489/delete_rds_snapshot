@@ -32,4 +32,4 @@ Below snippet on how to run the script to delete the snapshots for the X mention
 
 
 
-for more scripts please visit https://cloudtutorialsblog.wordpress.com
+for more scripts please visit http://cloudscholarly.com
