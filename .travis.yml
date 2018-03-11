@@ -9,7 +9,7 @@ python: "2.7"
 before_install:
   - sudo apt-get update -qq
   - sudo apt-get install -qq python-apt
-  - sudo pip install boto.rds2
+  - sudo pip install boto
 sudo: enabled
 script:
   - python delete_rds_snapshot.py
