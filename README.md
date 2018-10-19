@@ -29,7 +29,3 @@ Below snippet on how to run the script to delete the snapshots for the X mention
          -h, --help         show this help message and exit
   
   
-
-
-
-for more scripts please visit http://cloudscholarly.com
